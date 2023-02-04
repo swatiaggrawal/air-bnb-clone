@@ -1,0 +1,53 @@
+body{
+  background: #E5E5E5;
+}
+.App {
+  text-align: center;
+
+}
+nav{
+background: #FFFFFF;
+box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+display: flex;
+/* width: 550px; */
+height: 28px;
+padding: 15px 36px;
+}
+
+.airbnblogo{
+  max-width: 100px;
+  height: 25.35px;
+
+}
+.photogrid{
+  margin-top: 50px;
+  width: 550px;
+  height: 325px;
+}
+
+.header1{
+  position: absolute;
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 110%;
+margin-left: 30px;
+/* identical to box height, or 40px */
+
+
+color: #000000;
+}
+.para1{
+  position: absolute;
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 110%;
+/* or 18px */
+margin-top: 80px;
+margin-left: 30px;
+color: #222222;
+text-align: left;
+}
